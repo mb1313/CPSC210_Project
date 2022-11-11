@@ -1,0 +1,35 @@
+{
+  "lists": [
+      [
+        {
+          "title": "LotR",
+          "author": "Tolkien",
+          "genre": "Fantasy",
+          "status": 0
+        },
+        {
+          "title": "Dune",
+          "author": "Herbert",
+          "genre": "Sci-fi",
+          "status": 0
+        }
+      ],
+
+      [
+        {
+          "title": "1984",
+          "author": "Orwell",
+          "genre": "Dystopian",
+          "status": 1
+        }
+      ],
+      [
+        {
+          "title": "Gatsby",
+          "author": "Fitzgerald",
+          "genre": "Realistic",
+          "status": 2
+        }
+      ]
+  ]
+}

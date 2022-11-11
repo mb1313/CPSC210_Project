@@ -1,0 +1,20 @@
+{"lists": [
+    [{
+        "author": "Tolkien",
+        "genre": "Fantasy",
+        "title": "LotR",
+        "status": 0
+    }],
+    [{
+        "author": "Tolkien",
+        "genre": "Fantasy",
+        "title": "LotR",
+        "status": 1
+    }],
+    [{
+        "author": "Tolkien",
+        "genre": "Fantasy",
+        "title": "LotR",
+        "status": 2
+    }]
+]}
